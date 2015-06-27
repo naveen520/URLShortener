@@ -1,0 +1,6 @@
+c:\users\naveen\documents\visual studio 2012\Projects\WebApplication2\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+c:\users\naveen\documents\visual studio 2012\Projects\WebApplication2\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+c:\users\naveen\documents\visual studio 2012\Projects\WebApplication2\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+c:\users\naveen\documents\visual studio 2012\Projects\WebApplication2\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+c:\users\naveen\documents\visual studio 2012\Projects\WebApplication2\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+c:\users\naveen\documents\visual studio 2012\Projects\WebApplication2\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
